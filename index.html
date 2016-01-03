@@ -6,75 +6,33 @@
 		 <link rel="shortcut icon" href="favicon.ico" />
 
 		<style>
-			body {
-				background-color: RGB(50, 104, 252);
-				font-family: "Arial" ,sans-serif;
+			.title-text h1 {
+				font-size:50px;
 				text-align:Center;
-
 			}
-			#main-title {
-				color: Yellow;
-				font-size: 3.1em;
-						}
-			#cool-guy {
-				color: Yellow;
+			.title-text ul {
+				list-style-type: none;
+				text-align:Center;
 			}
-			.reasons {
-				list-style-position:Inside;
-				color: RGB(50, 252, 81);
-				font-size:1.3em;
-				position: relative;
-				top: 50px;
+			.title-text li {
+				display:inline;
+				text-align:Center;
+				margin:15px;
 			}
-			.pgp-link {
-				background-color: Orange;
-				font-family:monospace;
-				padding: 5px;
-				margin-bottom:0px;
-				margin-top:0px;
-				font-size:1.7em;
-			}
-			
-			#my-photo {
-				border: 20px groove White;
-				margin:20px;
-
-			}
-			#how-cool-am-i {
-				
-				font-weight:Bolder;
-				padding:4px;
-			}
-			.pgponly {
-				font-size:20px;
-			}
-			a:hover, a:focus {
-				background-color: RGB(255, 110, 55);
-			}
-			#view-source {
-				background-color: Orange;
-				padding: 2px;
-				text-decoration: Underline;
-				color: Blue;
-	
-			}
-			
-			.info-text {
-				color: RGB(20,255,50);
-			}
+		
 		</style>
 	</head>
 	<body>
-		<div class="main-text"><h1 id="main-title">Welcome To The Webpage of <br>Travis Michels</h1>
-		<h2 class="pgp-link">Email Me: <a href="mailto:travis@therealtravis.com">travis@therealtravis.com</a></h2>
-		<h3 class="pgp-link pgponly"><a target="_blank" href="https://pgp.mit.edu/pks/lookup?op=get&search=0xFDC520E7EFFAA564">Click Here For My PGP Key!</a></h3>
-		<img id="my-photo" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKWAAAAJDkzZTI4NDUxLTRjMzEtNDJkOC05MTI4LWQwM2VhMzFmZjIzMg.jpg" width="300px" alt="A Photo of Me!">
-		<P class="info-text">
-			Thank you for visiting this wonderful website. 
-		</P>
-		<div id='footer'> <br>
-			<a id="view-source" onClick='window.location="view-source:" + window.location.href'>View My Source</a>
-	</div>
+		<div class="top-section">
+			<div class="title-text">
+				<h1>Travis Michels</h1>
+				<ul>
+					<li><a>About Me</a></li>
+					<li><a>Photos</a></li>
+					<li><a>Videos</a></li>
+					<li><a>Contact Me</a></li>
+				</ul>
+			</div>
 		</div>
 	</body>
 </html>
