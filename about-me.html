@@ -65,8 +65,10 @@
 			}
 			.all-about-info {
 				position: relative;
-				text-align: Center;
 				top:  235px;
+			}
+			.all-about-nav {
+				text-align:Center;
 			}
 			.all-about-nav ul {
 				margin:0;
@@ -88,7 +90,17 @@
 			.all-about-link-hover:hover, .all-about-link-hover:focus {
 				text-decoration: Underline;
 			}
-			
+			.all-about-all-info {
+				position:relative;
+				top:60px;
+				margin-left:5%;
+			}
+			.all-about-titles {
+				font-size:2em;
+				color:#A2B23C;
+				text-decoration:Underline;
+			}
+		
 		</style>
 	</head>
 	<body>
@@ -110,7 +122,7 @@
 			<div class="all-about-nav">
 				<ul>
 					<li>
-						<a class="all-about-link-hover">General</a>
+						<a class="all-about-link-hover" href="#general-info-id">General</a>
 					</li>
 					<li>
 						<a class="all-about-link-hover">Aviation</a>
@@ -123,7 +135,11 @@
 					</li>
 				</ul>
 			</div>
-			
-		</div>
+			<div class="all-about-all-info">
+				<div class="general-info">
+					<h3 id="general-info-id" class="all-about-titles">General</h3>
+				</div>
+			</div>
+			</div>
 		</body>
 </html>
