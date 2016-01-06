@@ -10,19 +10,22 @@
 			background-color:White;
 		}
 		.whole-sig {
-			color:Black;
 		}
 		.whole-sig h1 {
 			font-size:2.5em;
+			color: 	#963C07;
+		}
+		#users-title {
+			color:	#963C07;
 		}
 		.filler-info {
+			color: #E88D1A;
 			position:relative;
-			top:-15px;
-			left:30px;
+			top:-20px;
 		}
 		.filler-info h4 {
 			position:relative;
-			top:-10px;
+			top:-35px;
 		}
 		#cell {
 			position:relative;
@@ -33,15 +36,19 @@
 			top:-35px;
 			width:400px;
 		}
+		.lower-info {
+			position: relative;
+			top:-20px;
+		}
 		</style>
 	</head>
 	<body>
 		<div class="whole-sig">
-	    <h1>%%fullname%%</h1>
+	    <h1>%%DisplayName%%</h1>
 	    <div class="filler-info">
-	    <h2>Colorado Uplift</h2>
-	    <h4>W: %%phone%%</h4>
-	    <h4 id="cell">C: %%mobilephone%%</h4>
+	    <h2 id="users-title" class="user-title">%%Title%%</h2>
+	    <h2 class="lower-info">Colorado Uplift</h2>
+	    <h4>W: %%PhoneNumber%% | C: %%MobileNumber%%</h4>
 	    </div>
 	    <img id="uplift-photo" src="http://upliftalumni.org/Assets/Uplift_Logo.png">
 	    </div>
