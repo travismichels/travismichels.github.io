@@ -6,9 +6,32 @@
 		 <link rel="shortcut icon" href="favicon.ico" />
 
 		<style>
+		.whole-sig {
+			color:Black;
+		}
+		.filler-info {
+			position:relative;
+			top:-15px;
+			left:30px;
+		}
+		.filler-info h4 {
+			position:relative;
+			top:-10px;
+		}
+		#cell {
+			position:relative;
+			top:-25px;
+		}
 		</style>
 	</head>
 	<body>
-	    <h1>Hello, Test.</h1>
+		<div class="whole-sig">
+	    <h1>%%fullname%%</h1>
+	    <div class="filler-info">
+	    <h2>Colorado Uplift</h2>
+	    <h4>W: %%phone%%</h4>
+	    <h4 id="cell">C: %%mobilephone%%</h4>
+	    </div>
+	    </div>
 	</body>
 </html>
