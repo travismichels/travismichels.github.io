@@ -192,6 +192,10 @@
 			padding: 5px;
 			color:#FFD617;
 		}
-		.darkercolortable{
+		.darkercolortable {
 			background-color: RGBA(16,50,64,.4);
+		}
+		.lightercolortable {
+			background-color: RGBA(32,100,127,.4);
+			
 		}
