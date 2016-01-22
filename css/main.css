@@ -129,3 +129,62 @@
 				display:Block;
 				overflow:hidden;
 			}
+			.all-videos {
+				position:relative;
+				top:200px;
+				margin-left:5%;
+				margin-right:5%;
+				padding:20px;
+			}
+			.videos-intro {
+				position:relative;
+				top:220px;
+				text-align:Center;
+				font-size:1.2em;
+				color: Orange;
+			}
+			.videos-intro h2 a {
+				text-decoration:none;
+			}
+			#channel-id-tag:hover {
+				text-decoration:underline;
+			}
+			#more-videos-onway {
+				text-align:center;
+				font-size:1.4em;
+				color: Yellow;
+			}
+			#video-table-border tr td iframe {
+				border:3px solid White;
+			}
+			.main-contact-info {
+				position:relative;
+				text-align:Center;
+				top:270px;
+				color:#A2B23C;
+				font-size:1.5em;
+			}
+			.main-contact-info h2 a {
+				text-decoration:none; 
+				text-decoration:underline;
+			}
+			.contact-table {
+				position:relative;
+				top:20px;
+				font-size:.8em;
+			}
+			.contact-table td {
+				padding:2px 5px 2px 5px;
+			}
+			.duranthanks {
+			padding-top:30px;
+			text-align: Center;
+			color:White;
+		}
+		.duran_pic {
+			display: Block;
+			margin-left:Auto;
+			margin-right:Auto;
+			width:700px;
+			padding-bottom:20px;
+		}
