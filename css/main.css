@@ -192,6 +192,9 @@
 			padding: 5px;
 			color:#FFD617;
 		}
+		.worktable td {
+			text-align: Center
+		}
 		.darkercolortable {
 			background-color: RGBA(16,50,64,.4);
 		}
