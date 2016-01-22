@@ -189,10 +189,9 @@
 			padding-bottom:20px;
 		}
 		.worktable {
-			border: 2px solid #A2B23C;
 			padding: 5px;
 			color:#FFD617;
 		}
 		.darkercolortable{
-			background-color: RGBA(16,50,64,.2);
+			background-color: RGBA(16,50,64,.4);
 		}
