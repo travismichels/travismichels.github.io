@@ -1,1 +1,131 @@
+            body {
+				background-color: RGB(29,88,113);
+			}
 
+			.top-section {
+				position:relative;
+				z-index:10;
+				background-color: RGB(29,88,113);
+				background-image:url('https://static.pexels.com/photos/8394/flight-sky-clouds-fly.jpg');
+				background-position:Center;
+				background-size:100%;
+				padding:7px;
+			}
+			.title-text h1 {
+				font-size:4em;
+				text-align:Center;
+				color:#BF4302;
+			}
+			.title-text ul {
+				list-style-type: none;
+				text-align:Center;
+				background-color: rgba(234,235,234,.8);
+				padding-top:3px;
+				padding-bottom:3px;
+			}
+			.title-text li {
+				display:inline;
+				padding:10px;
+				font-size:1.5em;
+				color:#19690E;
+				}
+					.title-text h1 a {
+				text-decoration:none;
+			}
+			.nav-area {
+				position:fixed;
+				top:-5px;
+				left:0px;
+				width:100%;
+				z-index:100;
+			}
+			.title-text ul li a {
+				text-decoration:none;
+			}
+			.top-links:hover{
+				text-decoration: Underline;
+			}
+			.top-links:focus {
+				text-decoration: Underline;
+
+			}
+			#header-color {
+				background-color: rgba(191,191,190,.6);
+				padding: 2px;
+				
+			}
+			#active-page {
+			    text-decoration:underline;
+			}
+			.main-body {
+				text-align:Center;
+				position:relative;
+				top:250px;
+				clear:both;
+			}
+			#weclome-to-website {
+			color:#FFD617;
+
+			}
+			#welcome-hello {
+				font-size:3.3em;
+				color:#A2B23C;
+			}
+			#my-photo-id {
+				width:30%;
+				margin:0px;
+				float: left;
+			}
+			.my-photo {
+				position:relative;
+				margin-left:30%;
+				margin-right:auto;
+			}
+			
+			.main-body h2 {
+				position:relative;
+				top:1.5em;
+				left:1.2em;
+				float:left;
+				margin-top:1.5em;
+			}
+			.all-about-info {
+				position: relative;
+				top:150px;
+				margin-left:5%;
+			}
+			.all-about-all-info {
+				position:relative;
+				top:70px;
+				margin-left:5%;
+			}
+			.all-about-titles {
+				font-size:2em;
+				color:#A2B23C;
+				text-decoration:Underline;
+			}
+			.filler-information {
+				margin-left:25px;
+				color:#FFD617;
+				width: 400px;
+				font-size:1.1em;
+			}
+			.hr-lines {
+				position:relative;
+				left:25px;
+			}
+			#image-in-info {
+				padding-top:190px;
+				padding-left:90px;
+			}
+	    	.all-photos {
+				position:relative;
+				top:250px;
+			
+			}
+			#photo-tag td img {
+				width:300px;
+				height:300px;
+				display:Block;
+				overflow:hidden;
+			}
