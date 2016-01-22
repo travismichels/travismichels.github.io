@@ -193,3 +193,6 @@
 			padding: 5px;
 			color:#FFD617;
 		}
+		.worktable tr {
+			background: RGB(16,50,64,.2);
+		}
