@@ -196,6 +196,8 @@
 			background-color: RGBA(16,50,64,.4);
 		}
 		.lightercolortable {
-			background-color: RGBA(32,100,127,.4);
-			
+			background-color: RGBA(32,78,127,.4);
+		}
+		#tablelabelswork {
+			text-decoration:underline;
 		}
