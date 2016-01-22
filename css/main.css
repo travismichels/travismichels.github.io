@@ -189,7 +189,8 @@
 			padding-bottom:20px;
 		}
 		.worktable {
-			border: 5px solid black;
+			border: 2px solid #A2B23C;
+;
 			padding: 5px;
 			color:#FFD617;
 		}
