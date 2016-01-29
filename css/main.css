@@ -213,3 +213,16 @@
 			text-align:Center;
 			margin:20px;
 		}
+		.maxmemetable {
+			padding:0px;
+		}
+		.allmaxpage img {
+			text-align:Center;
+		}
+		.max_pic {
+			display: Block;
+			margin-left:Auto;
+			margin-right:Auto;
+			width:500px;
+			padding-bottom:30px;
+		}
