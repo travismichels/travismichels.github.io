@@ -216,8 +216,8 @@
 		.maxmemetable {
 			padding:0px;
 		}
-		.allmaxpage img {
-			text-align:Center;
+		.allmaxpage table {
+			padding:30px;
 		}
 		.max_pic {
 			display: Block;
