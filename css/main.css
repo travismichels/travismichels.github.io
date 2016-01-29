@@ -216,6 +216,9 @@
 		.maxmemetable {
 			padding:0px;
 		}
+		.allmaxpage {
+			margin-top:50px;
+		}
 		.max_pic {
 			display: Block;
 			margin-left:Auto;
@@ -223,3 +226,22 @@
 			width:500px;
 			padding-bottom:30px;
 		}
+		.main-contact-info {
+				position:relative;
+				text-align:Center;
+				top:270px;
+				color:#A2B23C;
+				font-size:1.5em;
+			}
+			.main-contact-info h2 a {
+				text-decoration:none; 
+				text-decoration:underline;
+			}
+			.contact-table {
+				position:relative;
+				top:20px;
+				font-size:.8em;
+			}
+			.contact-table td {
+				padding:2px 5px 2px 5px;
+			}
