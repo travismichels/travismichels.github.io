@@ -255,4 +255,12 @@
 			}
 			.haidenintro {
 				text-align: Center;
+				padding-top: 20px;
+				font-size: 1.2em;
+			}
+			.funnyquotes {
+				color: Red;
+			}
+			.yeshesaid {
+				color: Yellow;
 			}
