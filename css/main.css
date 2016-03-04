@@ -264,3 +264,8 @@
 			.yeshesaid {
 				color: Orange;
 			}
+			.quotes {
+				text-align: Center;
+				color: Yellow;
+				font-size: 2em;
+			}
