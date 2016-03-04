@@ -267,5 +267,6 @@
 			.quotes {
 				text-align: Center;
 				color: Yellow;
-				font-size: 2em;
+				font-size: 1.4em;
+				padding-top: 40px;
 			}
