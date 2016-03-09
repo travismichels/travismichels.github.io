@@ -1,3 +1,13 @@
      body {
 				background-color: RGB(70, 22, 178);
 			}
+	.mainkaelyname {
+	    color: RGB(178,167,4);
+	    text-align: Center;
+	    font-size: 4em;
+	    padding-top: 70px;
+	}
+	.kaelyheadshotfront {
+	    position: Relative;
+	    padding-left: 50%;
+	}
