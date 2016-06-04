@@ -8,7 +8,7 @@
 				background-color: RGB(29,88,113);
 				background-image:url('/headerbackground.jpg');
 				background-position:Center;
-				background-size:100%;
+				background-size: cover;
 				padding:7px;
 			}
 			.title-text h1 {
