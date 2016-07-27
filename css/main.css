@@ -285,11 +285,10 @@
 				font-size: 3em;
 			}
 			.dngpicone {
-				display: Block;
 				margin-left:20%;
+				float: Left;
 			}
 			.dngpictwo {
-				display: Block;
 				margin-right: 20%;
 				float: right;
 			}
