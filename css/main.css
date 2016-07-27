@@ -284,3 +284,11 @@
 				color: White;
 				font-size: 3em;
 			}
+			.dngpicone {
+				display: Block;
+				margin-left:20%;
+			}
+			.dngpictwo {
+				display: Block;
+				margin-right: 20%
+			}
