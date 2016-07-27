@@ -280,9 +280,7 @@
 			width:800px;
 			}
 			.dngletterhello {
-				margin-left: Auto;
-				margin-right: Auto;
-				display: Block;
+				text-align: Center;
 				color: White;
 				font-size: 3em;
 			}
