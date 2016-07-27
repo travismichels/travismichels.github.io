@@ -288,11 +288,12 @@
 			.dngpicone {
 				margin-left:10%;
 				float: Left;
-				width: 200px;
+				width: 220px;
 			}
 			.dngpictwo {
 				margin-right: 10%;
 				float: right;
+				width: 220px;
 			}
 			.dngletterletter {
 				color: RGB(200,200,20);
