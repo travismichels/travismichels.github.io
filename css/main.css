@@ -304,6 +304,5 @@
 				padding-top: 30px;
 			}
 			.dngletterletter a {
-				color: RGB(200,200,20);
-				font-weight: normal;
+				text-decoration: none;
 			}
