@@ -294,7 +294,6 @@
 				float: right;
 			}
 			.dngletterletter {
-				font-size: 3em;
 				color: RGB(200,200,20);
-				padding-left: 30%;
+				text-align: Center;
 			}
