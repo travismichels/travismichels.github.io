@@ -308,7 +308,7 @@
 			}
 			.dngletterpics img {
 				width: 300px;
-				position: Block;
+				display: Block;
 				margin-left: Auto;
 				margin-right: Auto;
 			}
