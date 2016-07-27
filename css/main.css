@@ -306,3 +306,9 @@
 			.dngletterletter a {
 				color: RGB(200,200,20);
 			}
+			.dngletterpics img {
+				width: 300px;
+				position: Block;
+				margin-left: Auto;
+				margin-right: Auto;
+			}
