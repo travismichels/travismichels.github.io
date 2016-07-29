@@ -6,7 +6,7 @@
 				position:relative;
 				z-index:10;
 				background-color: RGB(29,88,113);
-				background-image:url('/pics/headerbackground.jpg');
+				background-image:url('/headerbackground.jpg');
 				background-position:Center;
 				background-size: cover;
 				padding:7px;
